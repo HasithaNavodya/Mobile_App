@@ -21,8 +21,8 @@ export default function LoginScreen() {
             }else{
                 // Use signIn or signUp for next steps such as MFA
             }
-        } catch (err){
-           console.error("OAuth error", err)
+        } catch (error){
+           console.error("OAuth error", error)
         } 
     }, [] );
     return (
