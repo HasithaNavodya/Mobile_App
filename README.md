@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 - *Clone the repository*
    ```sh
-   git clone https://github.com/HasithaNavodya/Library-Clone-App.git
+   git clone https://github.com/HasithaNavodya/Mobile_App.git
 
  - *Install dependencies*
    ```bash
